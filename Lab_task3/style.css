@@ -1,0 +1,25 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fffefe;
+    text-align: center;
+    padding-top: 50px;
+}
+
+table {
+    margin: auto;
+    border-spacing: 10px;
+}
+
+input {
+    width: 92%;
+    height: 40px;
+    font-size: 25px;
+    text-align: right;
+}
+
+button {
+    width: 50px;
+    height: 50px;
+    font-size: 18px;
+}
