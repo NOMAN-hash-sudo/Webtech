@@ -77,8 +77,6 @@ Course:
 <button>Submit</button>
 </form>
 
-<hr>
-
 <?php
 if ($_POST) {
     if ($errors) {
