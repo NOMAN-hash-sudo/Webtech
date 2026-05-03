@@ -1,0 +1,12 @@
+<?php
+$host = "localhost";
+$user = "root";
+$pass = "";
+$dbname = "student_management";
+
+$conn = mysqli_connect($host, $user, $pass, $dbname);
+
+if (!$conn) {
+    die("Connection failed");
+}
+?>
